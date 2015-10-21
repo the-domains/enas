@@ -1,4 +1,4 @@
-name: null
+name: ENAS
 favicon: null
 layout_spectrum: 0.46199899655766785
 typography_spectrum: 0.4689159798435867
@@ -15,9 +15,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.8569732389878482
-  lightness: 0.7556854484137148
-  saturation: 0.26436470565386117
-  rhythmicContrast: 0.37484470405615866
+  brandColors:
+    - '#000000'
+    - '#ffffff'
+    - '#887e65'
+    - '#b0a98d'
+    - '#0645a0'
+  brandStrength: 0.625
+  lightness: 0.9375
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose: []
