@@ -1,29 +1,19 @@
-name: ENAS
-favicon: null
-layout_spectrum: 0.60462
-typography_spectrum: 0.75253
-title: One. Oneness. Connection. Connectedness. Unity. Reconnection.
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
+    - '#E2DFE6'
     - '#000000'
-    - '#ffffff'
-    - '#011f33'
-    - '#00097c'
-    - '#e3e3fe'
-  brandStrength: 0.625
+    - '#B9B4B1'
+    - '#1E202C'
+    - '#51565A'
+  brandStrength: 0.875
   lightness: 0.9375
+  rhythmicContrast: 0.893466
   saturation: 0.875
-  rhythmicContrast: 0.5
+cta: {}
+layout_spectrum: 0.60462
+name: ENAS
+opengraph: {}
 purpose: []
+title: One. Oneness. Connection. Connectedness. Unity. Reconnection.
+typography_spectrum: 0.75253
